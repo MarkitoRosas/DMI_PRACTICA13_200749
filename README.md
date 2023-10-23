@@ -1,4 +1,4 @@
-# DMI_PRACTICA7_200749
+# DMI_PRACTICA12_200749
 
 [![Encabezado.png](https://i.postimg.cc/PJKtvHNC/Encabezado.png)](https://postimg.cc/K3kXCdPb)
 
@@ -54,6 +54,7 @@ La aplicación muestra en el cuerpo principal los pósteres de las películas m�
 <img src="./assets/2.png" width="200" alt="Captura de Pantalla 1">
 <img src="./assets/1.png" width="200" alt="Captura de Pantalla 2">
 <img src="./assets/3.png" width="200" alt="Captura de Pantalla 3">
+<img src="./assets/4.png" width="200" alt="Captura de Pantalla 4">
 </p>
 
 

@@ -79,14 +79,13 @@ class MediaDetail extends StatelessWidget {
                       new Text(
                         media.overview,
                         overflow: TextOverflow.ellipsis,
-                        maxLines: 3,
-                        textAlign: TextAlign
-                            .justify,
+                        maxLines: 5,
+                        textAlign: TextAlign.justify,
                         style: new TextStyle(
-                          color: Colors.white,
-                          fontSize: 16.0,
-                          fontFamily: 'silver'
-                        ), // Añade esta línea para justificar el texto
+                            color: Colors.white,
+                            fontSize: 16.0,
+                            fontFamily:
+                                'silver'), // Añade esta línea para justificar el texto
                       )
                     ],
                   )
